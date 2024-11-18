@@ -1,2 +1,2 @@
 # uci-class
-Simple UCI datasets preprocessing
+Simple UCI datasets preprocessing for PyTorch
